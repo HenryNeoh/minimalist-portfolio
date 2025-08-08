@@ -1,0 +1,247 @@
+{
+  "nav": {
+    "name": "Henry",
+    "menu": [
+      {
+        "text": "Home",
+        "link": "#home"
+      },
+      {
+        "text": "About",
+        "link": "#about"
+      },
+      {
+        "text": "Skills",
+        "link": "#skills"
+      },
+      {
+        "text": "Experience",
+        "link": "#experience"
+      },
+      {
+        "text": "Projects",
+        "link": "#projects"
+      },
+      {
+        "text": "Contact",
+        "link": "#contact"
+      }
+    ]
+  },
+  "hero": {
+    "greeting": "Hi",
+    "name": "Henry",
+    "title": "Full Stack Developer",
+    "description": "I build exceptional and accessible digital experiences for the web.",
+    "image": "/images/avatar.png",
+    "resume": "https://resume11.edgeone.app/NEOH_WEI_JIAN_Resume.pdf"
+  },
+  "about": {
+    "title": "About Me",
+    "description": "I am a fresh graduate with a Diploma in Computer Engineering study at Universiti Malaysia Perlis, passionate about technology and software development. I have hands-on experience in web development, programming, and problem-solving. I am eager to contribute my skills and grow as a developer in a dynamic environment.",
+    "button": "Download CV",
+    "image": "/images/profileimage.png"
+  },
+  "skills": {
+    "title": "My Skills",
+    "categories": [
+      {
+        "title": "Frontend",
+        "skills": [
+          {
+            "name": "HTML",
+            "image": "/images/html.png"
+          },
+          {
+            "name": "CSS",
+            "image": "/images/Css.png"
+          },
+          {
+            "name": "JavaScript",
+            "image": "/images/js.png"
+          },
+          {
+            "name": "React",
+            "image": "/images/react.png"
+          }
+        ]
+      },
+      {
+        "title": "Backend",
+        "skills": [
+          {
+            "name": "Node.js",
+            "image": "/images/nodejs.png"
+          },
+          {
+            "name": "SQLite",
+            "image": "https://e7.pngegg.com/pngimages/890/928/png-clipart-sqlite-logo-sqlite-logo-icons-logos-emojis-tech-companies.png"
+          },
+          {
+            "name": "MySQL",
+            "image": "/images/mysql.png"
+          },
+          {
+            "name": "PostgreSQL",
+            "image": "/images/post.png"
+          }
+        ]
+      },
+      {
+        "title": "Data Science",
+        "skills": [
+          {
+            "name": "Python",
+            "image": "/images/python.png"
+          },
+          {
+            "name": "PyTorch",
+            "image": "/images/deep.png"
+          },
+          {
+            "name": "Pandas",
+            "image": "/images/pandas.png"
+          },
+          {
+            "name": "NumPy",
+            "image": "/images/numpy.png"
+          }
+        ]
+      },
+      {
+        "title": "Tools",
+        "skills": [
+          {
+            "name": "Git",
+            "image": "/images/git.png"
+          },
+          {
+            "name": "VS Code",
+            "image": "/images/vscode.jpg"
+          },
+          {
+            "name": "Cursor",
+            "image": "https://static.cdnlogo.com/logos/c/23/cursor.svg"
+          },
+          {
+            "name": "Trae",
+            "image": "https://ph-files.imgix.net/c4d77076-9008-48e5-b10c-8a03297e3781.png"
+          },
+          {
+            "name": "Canva",
+            "image": "/images/canva.jpg"
+          },
+          {
+            "name": "github",
+            "image": "https://img.favpng.com/23/22/24/github-computer-icons-logo-repository-png-favpng-Xa4mbSrfRMX9G88dJuBVBvj5Q.jpg"
+          },
+          {
+            "name": "CodeBlocks",
+            "image": "https://w1.pngwing.com/pngs/84/803/png-transparent-codeblocks-plastic-integrated-development-environment-visual-studio-code-source-code-exe-sourceforge-installation-free-and-opensource-software.png"
+          },
+          {
+            "name": "Intel® Quartus® II",
+            "image": "https://i0.wp.com/streamhpc.com/wp-content/uploads/2016/10/quartus.jpg"
+          },
+          {
+            "name": "Cisco packet Tracer",
+            "image": "https://hurbad.com/wp-content/uploads/2021/12/Cisco-Packet-Tracer.png"
+          },
+          {
+            "name": "Wireshark",
+            "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Wireshark_icon_new.png"
+          },
+          {
+            "name": "CloudFlare",
+            "image": "https://www.bizinkonline.com/wp-content/uploads/png-transparent-cloudflare-logo-content-delivery-network-cloud-text-orange-logo-thumbnail.png"
+          }
+        ]
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "timeline": [
+      {
+        "title": "No professional experience yet",
+        "company": "",
+        "period": "",
+        "description": "As a recent graduate, I am eager to gain hands-on experience and contribute to real-world projects. I am committed to continuous learning and professional growth."
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "items": [
+      {
+        "title": "Barcode Filing Management System",
+        "description": "The Barcode Filing Management System is a digital solution designed to streamline the organization and retrieval of physical documents using barcode technology. It enables users to generate, assign, and scan barcodes for individual files, significantly improving tracking efficiency and minimizing human error. The system includes features such as user authentication, file indexing, and real-time search functionality. Built with Cloudflare, SQlite, Html, Css and JavaScript, it provides a user-friendly web interface for administrators and staff.",
+        "technologies": ["Cloudflare", "SQlite", "JavaScript", "HTML", "CSS", "Barcode Scanner Integration"],
+        "github": "https://github.com/HenryNeoh",
+        "site": "https://fyp1.dpdns.org",
+        "image": "https://i.ibb.co/5xGcxHvc/Generated-Image-June-23-2025-11-19-PM.jpg"
+      },
+      {
+        "title": "Camera Photo Booth with Filters & Animations",
+        "description": "The Camera Photo Booth is a fun and interactive web application that allows users to take photos using their device's camera and apply real-time filters and animations. Users can choose from a variety of visual effects, overlays, and frame styles to customize their snapshots. The app also supports saving and downloading photos directly from the browser. Built using JavaScript, HTML5, and CSS3, it leverages WebRTC for camera access and Canvas API for image processing.",
+        "technologies": ["JavaScript", "HTML5", "CSS3", "WebRTC", "Canvas API"],
+        "github": "https://github.com/HenryNeoh",
+        "site": "https://camera-app-bpo.pages.dev",
+        "image": "https://i.ibb.co/yFsDGMNm/Generated-Image-June-23-2025-11-08-PM.jpg"
+      },
+      {
+        "title": "Face Recognition Web App",
+        "description": "This Face Recognition Web App uses real-time camera input to detect and recognize faces through a web interface. Once a face is successfully detected, the system automatically sends a notification to a specified Telegram chat using the Telegram Bot API. The application is ideal for monitoring, attendance, or security use cases. It was developed using Python with OpenCV for facial recognition, integrated with a Flask web backend and JavaScript for frontend interactions.",
+        "technologies": ["Python", "OpenCV", "Flask", "React", "JavaScript", "HTML", "CSS", "Telegram Bot API"],
+        "github": "https://github.com/HenryNeoh",
+        "site": "https://webf.meho.dpdns.org",
+        "image": "https://i.ibb.co/rKTYHbKK/Generated-Image-June-23-2025-11-13-PM.jpg"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact Me",
+    "description": "Feel free to reach out to me for any questions or opportunities!",
+    "emailjs": {
+      "service_id": "service_39vhi5e",
+      "template_id": "template_caadr97",
+      "public_key": "EoCbXreg20IAz2lIf",
+      "to_email": "mimiabc256@gmail.com"
+    },
+    "info": {
+      "email": "henryneoh22@gmail.com",
+      "phone": "+60173014638",
+      "location": "Your Location"
+    },
+    "social": [
+      {
+        "name": "GitHub",
+        "icon": "github",
+        "link": "https://github.com/HenryNeoh"
+      },
+      {
+        "name": "LinkedIn",
+        "icon": "linkedin",
+        "link": "https://www.linkedin.com/in/henry-neoh-wei-jian-7b44362a0/?trk=opento_sprofile_details"
+      }
+    ],
+    "social_comment": [
+  {
+    "name": "Medium",
+    "icon": "medium",
+    "link": "https://medium.com/tencent-cloud/welcome-to-tencent-edgeone-e4eab9100ebc"
+  },
+  {
+    "name": "Instagram",
+    "icon": "instagram",
+    "link": "https://x.com/TencentCloudEO"
+  }
+],
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "message": "Message",
+      "submit": "Send Message"
+    }
+  }
+}
